@@ -42,7 +42,8 @@ http-server
 ```
 .
 ├── index.html          # Main campaign page
-└── README.md           # This file
+└── README.md
+           # This file
 ```
 
 ## Resources
